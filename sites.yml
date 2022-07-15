@@ -1,3 +1,4 @@
+group: Service front pages
 sites:
   - name: mySociety Main page
     slug: mysociety-org

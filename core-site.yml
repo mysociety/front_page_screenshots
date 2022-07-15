@@ -1,0 +1,54 @@
+group: mysociety.org top level pages
+sites:
+  - name: mySociety Main page
+    slug: mysociety-org
+    group: mySociety
+    url: https://mysociety.org
+  - name: Transparency page
+    slug: transparency
+    group: Streams
+    url: https://www.mysociety.org/transparency/
+  - name: Democracy page
+    slug: democracy
+    group: Streams
+    url: https://www.mysociety.org/democracy/
+  - name: Community page
+    slug: community
+    group: Streams
+    url: https://www.mysociety.org/community/
+  - name: Climate page
+    slug: community
+    group: Streams
+    url: https://www.mysociety.org/climate/    
+  - name: Research page
+    slug: research
+    group: Streams
+    url: https://www.mysociety.org/our-research/   
+  - name: Blog
+    slug: blog
+    group: mySociety
+    url: https://www.mysociety.org/blog/ 
+  - name: About
+    slug: about
+    group: mySociety
+    url: https://www.mysociety.org/about/  
+  - name: Careers
+    slug: careers
+    group: mySociety
+    url: https://www.mysociety.org/about/careers/
+  - name: Advice and support
+    slug: advice
+    group: mySociety
+    url: https://www.mysociety.org/advice-and-support/
+  - name: Donate
+    slug: Donate
+    group: mySociety
+    url: https://www.mysociety.org/donate/
+  - name: Subscribe
+    slug: subscribe
+    group: mySociety
+    url: https://www.mysociety.org/subscribe/
+
+
+
+

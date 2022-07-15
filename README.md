@@ -2,7 +2,13 @@
 
 Use [shotscrapper](https://github.com/simonw/shot-scraper) to bring all mySociety webpages into one scroll. 
 
-Screenshots are in [frontpages.md](frontpages.md)
+## Screenshot collections
+
+- [Service front pages](frontpages.md)
+- [mysociety.org top level](core-site.md)
+
+
+## Updating
 
 Run `script/setup` to setup dependencies.
 
