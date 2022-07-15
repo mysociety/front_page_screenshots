@@ -17,7 +17,7 @@ sites:
     group: Streams
     url: https://www.mysociety.org/community/
   - name: Climate page
-    slug: community
+    slug: climate
     group: Streams
     url: https://www.mysociety.org/climate/    
   - name: Research page

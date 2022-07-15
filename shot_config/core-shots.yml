@@ -48,12 +48,12 @@
   name: Climate page
   width: 1920
   height: 1080
-  output: images/community-full-screen.png
+  output: images/climate-full-screen.png
 - url: https://www.mysociety.org/climate/
   name: Climate page
   width: 360
   height: 640
-  output: images/community-mobile.png
+  output: images/climate-mobile.png
 
 - url: https://www.mysociety.org/our-research/
   name: Research page

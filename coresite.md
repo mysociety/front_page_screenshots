@@ -92,11 +92,11 @@ https://www.mysociety.org/climate/
 
 ### Desktop
 
-![](images/community-full-screen.png)
+![](images/climate-full-screen.png)
 
 ### Mobile
 
-![](images/community-mobile.png)
+![](images/climate-mobile.png)
 
 
 
