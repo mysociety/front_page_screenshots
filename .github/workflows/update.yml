@@ -1,0 +1,26 @@
+name: Take screenshots
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 8 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        script/setup
+    - name: Take shots
+      run: |
+        make
+    - name: Push new data
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update screenshots today"

@@ -1,0 +1,43 @@
+sites:
+  - name: mySociety Main page
+    slug: mysociety-org
+    group: mySociety
+    url: https://mysociety.org
+  - name: TheyWorkForYou
+    slug: theyworkforyou
+    group: Democracy
+    url: https://theyworkforyou.com/
+  - name: WriteToThem
+    slug: writetothem
+    group: Democracy
+    url: https://www.writetothem.com/
+  - name: WhatDoTheyKnow
+    slug: wdtk
+    group: Transparency
+    url: https://www.whatdotheyknow.com/
+  - name: FixMyStreet
+    slug: fms
+    group: Community
+    url: https://www.fixmystreet.com/
+  - name: MapIt
+    slug: mapit
+    group: Community
+    url: https://mapit.mysociety.org/
+  - name: CAPE
+    slug: cape
+    group: Climate
+    url: https://data.climateemergency.uk/
+  - name: Council climate scorecards
+    slug: scorecards
+    group: Climate
+    url: https://councilclimatescorecards.uk/
+  - name: Research
+    slug: research-site
+    group: mySociety
+    url: https://research.mysociety.org/
+  - name: Data
+    slug: data-portal
+    group: mySociety
+    url: https://data.mysociety.org/
+
+

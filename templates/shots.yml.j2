@@ -1,0 +1,13 @@
+# generated from template file
+{% for s in sites %}
+- url: {{s.url}}
+  name: {{s.name}}
+  width: 1920
+  height: 1080
+  output: images/{{s.slug}}-full-screen.png
+- url: {{s.url}}
+  name: {{s.name}}
+  width: 360
+  height: 640
+  output: images/{{s.slug}}-mobile.png
+{% endfor %}

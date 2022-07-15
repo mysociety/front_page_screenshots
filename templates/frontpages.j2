@@ -1,0 +1,29 @@
+
+# Front page screenshots
+
+Last rendered on: {{ ENV.CURRENT_DATE }}
+
+# Index
+{% for type, items in sites | groupby('group') %}
+## {{ type }}
+{% for item in items %}- [{{ item.name }}](#{{ item.name | lower | replace(" ", "-") }})
+{% endfor %}{% endfor %}
+
+# Front pages
+
+{% for s in sites  %}
+
+## {{s.name}}
+
+{{s.url}}
+
+### Desktop
+
+![](images/{{s.slug}}-full-screen.png)
+
+### Mobile
+
+![](images/{{s.slug}}-mobile.png)
+
+
+{% endfor %}

@@ -1,0 +1,6 @@
+# /bin/bash
+
+j2 templates/shots.yml.j2 sites.yml > shot_config/shots.yml
+shot-scraper multi shot_config/shots.yml
+export CURRENT_DATE=$(date +'%Y-%m-%d')
+j2 templates/frontpages.j2 sites.yml --import-env ENV > frontpages.md
