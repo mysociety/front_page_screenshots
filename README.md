@@ -5,7 +5,7 @@ Use [shotscrapper](https://github.com/simonw/shot-scraper) to bring all mySociet
 ## Screenshot collections
 
 - [Service front pages](frontpages.md)
-- [mysociety.org top level](core-site.md)
+- [mysociety.org top level](coresite.md)
 
 
 ## Updating
