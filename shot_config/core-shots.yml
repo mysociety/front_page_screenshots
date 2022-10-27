@@ -5,130 +5,154 @@
   width: 1920
   height: 1080
   output: images/mysociety-org-full-screen.png
+  wait: 2000
 - url: https://mysociety.org
   name: mySociety Main page
   width: 360
   height: 640
   output: images/mysociety-org-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/transparency/
   name: Transparency page
   width: 1920
   height: 1080
   output: images/transparency-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/transparency/
   name: Transparency page
   width: 360
   height: 640
   output: images/transparency-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/democracy/
   name: Democracy page
   width: 1920
   height: 1080
   output: images/democracy-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/democracy/
   name: Democracy page
   width: 360
   height: 640
   output: images/democracy-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/community/
   name: Community page
   width: 1920
   height: 1080
   output: images/community-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/community/
   name: Community page
   width: 360
   height: 640
   output: images/community-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/climate/
   name: Climate page
   width: 1920
   height: 1080
   output: images/climate-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/climate/
   name: Climate page
   width: 360
   height: 640
   output: images/climate-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/our-research/
   name: Research page
   width: 1920
   height: 1080
   output: images/research-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/our-research/
   name: Research page
   width: 360
   height: 640
   output: images/research-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/blog/
   name: Blog
   width: 1920
   height: 1080
   output: images/blog-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/blog/
   name: Blog
   width: 360
   height: 640
   output: images/blog-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/about/
   name: About
   width: 1920
   height: 1080
   output: images/about-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/about/
   name: About
   width: 360
   height: 640
   output: images/about-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/about/careers/
   name: Careers
   width: 1920
   height: 1080
   output: images/careers-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/about/careers/
   name: Careers
   width: 360
   height: 640
   output: images/careers-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/advice-and-support/
   name: Advice and support
   width: 1920
   height: 1080
   output: images/advice-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/advice-and-support/
   name: Advice and support
   width: 360
   height: 640
   output: images/advice-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/donate/
   name: Donate
   width: 1920
   height: 1080
   output: images/Donate-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/donate/
   name: Donate
   width: 360
   height: 640
   output: images/Donate-mobile.png
+  wait: 2000
 
 - url: https://www.mysociety.org/subscribe/
   name: Subscribe
   width: 1920
   height: 1080
   output: images/subscribe-full-screen.png
+  wait: 2000
 - url: https://www.mysociety.org/subscribe/
   name: Subscribe
   width: 360
   height: 640
   output: images/subscribe-mobile.png
+  wait: 2000
 

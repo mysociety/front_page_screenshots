@@ -1,0 +1,52 @@
+# generated from template file
+
+- url: https://mysociety.org
+  name: mySociety Main page
+  output: images/mysociety-org-full-length.png
+  wait: 2000
+
+- url: https://theyworkforyou.com/
+  name: TheyWorkForYou
+  output: images/theyworkforyou-full-length.png
+  wait: 2000
+
+- url: https://www.writetothem.com/
+  name: WriteToThem
+  output: images/writetothem-full-length.png
+  wait: 2000
+
+- url: https://www.whatdotheyknow.com/
+  name: WhatDoTheyKnow
+  output: images/wdtk-full-length.png
+  wait: 2000
+
+- url: https://www.fixmystreet.com/
+  name: FixMyStreet
+  output: images/fms-full-length.png
+  wait: 2000
+
+- url: https://mapit.mysociety.org/
+  name: MapIt
+  output: images/mapit-full-length.png
+  wait: 2000
+
+- url: https://data.climateemergency.uk/
+  name: CAPE
+  output: images/cape-full-length.png
+  wait: 2000
+
+- url: https://councilclimatescorecards.uk/
+  name: Council climate scorecards
+  output: images/scorecards-full-length.png
+  wait: 2000
+
+- url: https://research.mysociety.org/
+  name: Research
+  output: images/research-site-full-length.png
+  wait: 2000
+
+- url: https://data.mysociety.org/
+  name: Data
+  output: images/data-portal-full-length.png
+  wait: 2000
+

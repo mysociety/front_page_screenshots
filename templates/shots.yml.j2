@@ -5,9 +5,11 @@
   width: 1920
   height: 1080
   output: images/{{s.slug}}-full-screen.png
+  wait: 2000
 - url: {{s.url}}
   name: {{s.name}}
   width: 360
   height: 640
   output: images/{{s.slug}}-mobile.png
+  wait: 2000
 {% endfor %}

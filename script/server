@@ -2,8 +2,11 @@
 
 j2 templates/shots.yml.j2 sites.yml > shot_config/shots.yml
 j2 templates/shots.yml.j2 core-site.yml > shot_config/core-shots.yml
+j2 templates/full-shots.yml.j2 sites.yml > shot_config/full-length.yml
 shot-scraper multi shot_config/shots.yml
 shot-scraper multi shot_config/core-shots.yml
+shot-scraper multi shot_config/full-length.yml
 export CURRENT_DATE=$(date +'%Y-%m-%d')
 j2 templates/frontpages.j2 sites.yml --import-env ENV > frontpages.md
 j2 templates/frontpages.j2 core-site.yml --import-env ENV > coresite.md
+j2 templates/full-frontpages.j2 sites.yml --import-env ENV > fulllength.md

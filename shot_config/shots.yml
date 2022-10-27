@@ -5,108 +5,128 @@
   width: 1920
   height: 1080
   output: images/mysociety-org-full-screen.png
+  wait: 2000
 - url: https://mysociety.org
   name: mySociety Main page
   width: 360
   height: 640
   output: images/mysociety-org-mobile.png
+  wait: 2000
 
 - url: https://theyworkforyou.com/
   name: TheyWorkForYou
   width: 1920
   height: 1080
   output: images/theyworkforyou-full-screen.png
+  wait: 2000
 - url: https://theyworkforyou.com/
   name: TheyWorkForYou
   width: 360
   height: 640
   output: images/theyworkforyou-mobile.png
+  wait: 2000
 
 - url: https://www.writetothem.com/
   name: WriteToThem
   width: 1920
   height: 1080
   output: images/writetothem-full-screen.png
+  wait: 2000
 - url: https://www.writetothem.com/
   name: WriteToThem
   width: 360
   height: 640
   output: images/writetothem-mobile.png
+  wait: 2000
 
 - url: https://www.whatdotheyknow.com/
   name: WhatDoTheyKnow
   width: 1920
   height: 1080
   output: images/wdtk-full-screen.png
+  wait: 2000
 - url: https://www.whatdotheyknow.com/
   name: WhatDoTheyKnow
   width: 360
   height: 640
   output: images/wdtk-mobile.png
+  wait: 2000
 
 - url: https://www.fixmystreet.com/
   name: FixMyStreet
   width: 1920
   height: 1080
   output: images/fms-full-screen.png
+  wait: 2000
 - url: https://www.fixmystreet.com/
   name: FixMyStreet
   width: 360
   height: 640
   output: images/fms-mobile.png
+  wait: 2000
 
 - url: https://mapit.mysociety.org/
   name: MapIt
   width: 1920
   height: 1080
   output: images/mapit-full-screen.png
+  wait: 2000
 - url: https://mapit.mysociety.org/
   name: MapIt
   width: 360
   height: 640
   output: images/mapit-mobile.png
+  wait: 2000
 
 - url: https://data.climateemergency.uk/
   name: CAPE
   width: 1920
   height: 1080
   output: images/cape-full-screen.png
+  wait: 2000
 - url: https://data.climateemergency.uk/
   name: CAPE
   width: 360
   height: 640
   output: images/cape-mobile.png
+  wait: 2000
 
 - url: https://councilclimatescorecards.uk/
   name: Council climate scorecards
   width: 1920
   height: 1080
   output: images/scorecards-full-screen.png
+  wait: 2000
 - url: https://councilclimatescorecards.uk/
   name: Council climate scorecards
   width: 360
   height: 640
   output: images/scorecards-mobile.png
+  wait: 2000
 
 - url: https://research.mysociety.org/
   name: Research
   width: 1920
   height: 1080
   output: images/research-site-full-screen.png
+  wait: 2000
 - url: https://research.mysociety.org/
   name: Research
   width: 360
   height: 640
   output: images/research-site-mobile.png
+  wait: 2000
 
 - url: https://data.mysociety.org/
   name: Data
   width: 1920
   height: 1080
   output: images/data-portal-full-screen.png
+  wait: 2000
 - url: https://data.mysociety.org/
   name: Data
   width: 360
   height: 640
   output: images/data-portal-mobile.png
+  wait: 2000
 
