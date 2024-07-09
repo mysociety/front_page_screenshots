@@ -28,6 +28,10 @@ sites:
     slug: cape
     group: Climate
     url: https://data.climateemergency.uk/
+  - name: Local Intelligence Hub
+    slug: lih
+    group: Climate
+    url: https://www.localintelligencehub.com/
   - name: Council climate scorecards
     slug: scorecards
     group: Climate
