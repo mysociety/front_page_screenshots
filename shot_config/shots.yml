@@ -104,19 +104,6 @@
   output: images/scorecards-mobile.png
   wait: 2000
 
-- url: https://www.localintelligencehub.com/
-  name: Local Intelligence Hub
-  width: 1920
-  height: 1080
-  output: images/lih-full-screen.png
-  wait: 2000
-- url: https://www.localintelligencehub.com/
-  name: Local Intelligence Hub
-  width: 360
-  height: 640
-  output: images/lih-mobile.png
-  wait: 2000
-
 - url: https://research.mysociety.org/
   name: Research
   width: 1920
