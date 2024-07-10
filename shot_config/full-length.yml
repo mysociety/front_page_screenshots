@@ -35,6 +35,11 @@
   output: images/cape-full-length.png
   wait: 2000
 
+- url: https://www.localintelligencehub.com/
+  name: Local Intelligence Hub
+  output: images/lih-full-length.png
+  wait: 2000
+
 - url: https://councilclimatescorecards.uk/
   name: Council climate scorecards
   output: images/scorecards-full-length.png

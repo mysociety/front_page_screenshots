@@ -1,12 +1,13 @@
 
 # Service front pages
 
-Last rendered on: 2024-07-09
+Last rendered on: 2024-07-10
 
 # Index
 
 ## Climate
 - [CAPE](#cape)
+- [Local Intelligence Hub](#local-intelligence-hub)
 - [Council climate scorecards](#council-climate-scorecards)
 
 ## Community
@@ -103,6 +104,17 @@ https://data.climateemergency.uk/
 ### Desktop
 
 ![](images/cape-full-length.png)
+
+
+
+
+## Local Intelligence Hub
+
+https://www.localintelligencehub.com/
+
+### Desktop
+
+![](images/lih-full-length.png)
 
 
 
